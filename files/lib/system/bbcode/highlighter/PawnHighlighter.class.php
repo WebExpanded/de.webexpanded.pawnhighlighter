@@ -6,7 +6,7 @@ namespace wcf\system\bbcode\highlighter;
  * 
  * @author	Kevin Haertling <service@webexpanded.de>
  * @copyright	2017 WebExpanded
- * @license	Creative Commons BY-SA <http://creativecommons.org/licenses/by-sa/3.0/>
+ * @license	CannaDesign Standard License <https://cannadesign.de/license/>
  * @package	de.webexpanded.pawnhighlighter
  */
 class PawnHighlighter extends Highlighter {
